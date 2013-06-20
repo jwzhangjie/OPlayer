@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/oplayer/!svn/ver/11/trunk/OPlayer/res/layout
+END
+fragment_file_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/oplayer/!svn/ver/3/trunk/OPlayer/res/layout/fragment_file_item.xml
+END
+fragment_pager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/oplayer/!svn/ver/3/trunk/OPlayer/res/layout/fragment_pager.xml
+END
+videoview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/oplayer/!svn/ver/11/trunk/OPlayer/res/layout/videoview.xml
+END
+fragment_file.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/oplayer/!svn/ver/3/trunk/OPlayer/res/layout/fragment_file.xml
+END
+mediacontroller.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/oplayer/!svn/ver/3/trunk/OPlayer/res/layout/mediacontroller.xml
+END
+common_loading.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/oplayer/!svn/ver/3/trunk/OPlayer/res/layout/common_loading.xml
+END
+fragment_online_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/oplayer/!svn/ver/3/trunk/OPlayer/res/layout/fragment_online_item.xml
+END
+fragment_online.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/oplayer/!svn/ver/3/trunk/OPlayer/res/layout/fragment_online.xml
+END
+my_media_controller.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/oplayer/!svn/ver/3/trunk/OPlayer/res/layout/my_media_controller.xml
+END
+mediaplayer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/oplayer/!svn/ver/3/trunk/OPlayer/res/layout/mediaplayer.xml
+END

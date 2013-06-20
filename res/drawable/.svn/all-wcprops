@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/oplayer/!svn/ver/3/trunk/OPlayer/res/drawable
+END
+home_btn_bg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/oplayer/!svn/ver/3/trunk/OPlayer/res/drawable/home_btn_bg.xml
+END
+mediacontroller_play_button.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/oplayer/!svn/ver/3/trunk/OPlayer/res/drawable/mediacontroller_play_button.xml
+END
+mediacontroller_pause_button.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/oplayer/!svn/ver/3/trunk/OPlayer/res/drawable/mediacontroller_pause_button.xml
+END
+icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/oplayer/!svn/ver/3/trunk/OPlayer/res/drawable/icon.png
+END
+alphabet_scroller_bg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/oplayer/!svn/ver/3/trunk/OPlayer/res/drawable/alphabet_scroller_bg.xml
+END
+mediacontroller_seekbar_thumb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/oplayer/!svn/ver/3/trunk/OPlayer/res/drawable/mediacontroller_seekbar_thumb.xml
+END
+mediacontroller_seekbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/oplayer/!svn/ver/3/trunk/OPlayer/res/drawable/mediacontroller_seekbar.xml
+END
